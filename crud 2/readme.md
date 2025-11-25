@@ -49,17 +49,7 @@ age	INTEGER	User age
 
 The table is created automatically if it does not exist.
 
-Project Structure
-flask_crud_project/
-│
-├── app.py                # Main Flask application with routes and database connection
-├── db_web.db             # SQLite database file
-├── templates/            # HTML templates
-│   ├── layout.html       # Base layout with Bootstrap and flash messages
-│   ├── index.html        # Displays list of all users
-│   ├── add_user.html     # Form to add a new user
-│   └── edit_user.html    # Form to edit an existing user
-└── static/               # Optional: CSS, JS, or image files (if needed)
+
 
 How It Works
 
