@@ -125,16 +125,5 @@ http://127.0.0.1:5000/
 
 You can now add, edit, and delete users through the web interface.
 
-Screenshots (Optional)
-
-Add screenshots of the home page, add user form, and edit user form here to make your GitHub README more attractive.
-
-Future Improvements
-
-Add search functionality to find users quickly.
-
-Add pagination for large user lists.
-
-Implement login authentication to protect CRUD operations.
 
 Switch to a more scalable database like MySQL or PostgreSQL.
